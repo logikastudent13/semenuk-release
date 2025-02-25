@@ -47,7 +47,12 @@ body {
     padding: 0.5rem 1rem;
     transition: background-color 0.3s;
 }
-
+ a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+}
 .navigation a:hover {
     background-color: #666;
     border-radius: 5px;
